@@ -1,0 +1,21 @@
+MIT License
+
+Copyright (c) 2024 Rasti Tengman
+
+Härmed ges tillstånd, kostnadsfritt, till varje person som erhåller en kopia
+av denna mjukvara och associerad dokumentation ("Mjukvaran"), att använda Mjukvaran
+utan begränsning, inklusive men inte begränsat till rättigheterna att använda,
+kopiera, ändra, sammanslå, publicera, distribuera, underlicensiera och/eller sälja
+kopior av Mjukvaran, samt att tillåta personer till vilka Mjukvaran är
+tillhandahållen att göra detsamma, under förutsättning av följande villkor:
+
+Ovanstående upphovsrättsmeddelande och detta tillståndsmeddelande ska inkluderas i
+alla kopior eller väsentliga delar av Mjukvaran.
+
+MJUKVARAN LEVERERAS "I BEFINTLIGT SKICK", UTAN NÅGON FORM AV GARANTI, VARKEN
+UTTRYCKLIG ELLER UNDERFÖRSTÅDD, INKLUSIVE MEN INTE BEGRÄNSAT TILL GARANTIER
+AVSEENDE SÄLJBARHET, LÄMPLIGHET FÖR ETT VISST ÄNDAMÅL OCH ICKE-INFRINGEMENT.
+INGEN FÖRFATTARE ELLER UPPHOVSRÄTTSINNEHAVARE ÄR ANSVARIG FÖR NÅGRA ANSPRÅK,
+SKADOR ELLER ANNAN ANSVARSSKYLDIGHET, VARE SIG I KONTRAKT, SKADESTÅND ELLER ANNAT,
+SOM UPPKOMMER UR, UNDER ELLER I SAMBAND MED MJUKVARAN ELLER ANVÄNDNINGEN ELLER
+ANDRA HANTERINGAR I MJUKVARAN.
