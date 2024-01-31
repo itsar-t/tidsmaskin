@@ -1,0 +1,8 @@
+# Ignorera .venv-mappen
+.venv/
+
+# Ignorera loggfiler
+*.log
+
+# Ignorera en specifik fil
+secret.conf
